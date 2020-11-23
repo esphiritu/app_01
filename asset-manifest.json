@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/esphiritu.github.io/static/css/main.c687a420.chunk.css",
+    "main.js": "/esphiritu.github.io/static/js/main.ad0954b8.chunk.js",
+    "main.js.map": "/esphiritu.github.io/static/js/main.ad0954b8.chunk.js.map",
+    "runtime-main.js": "/esphiritu.github.io/static/js/runtime-main.fcfd6ca9.js",
+    "runtime-main.js.map": "/esphiritu.github.io/static/js/runtime-main.fcfd6ca9.js.map",
+    "static/js/2.9e0d5bbc.chunk.js": "/esphiritu.github.io/static/js/2.9e0d5bbc.chunk.js",
+    "static/js/2.9e0d5bbc.chunk.js.map": "/esphiritu.github.io/static/js/2.9e0d5bbc.chunk.js.map",
+    "index.html": "/esphiritu.github.io/index.html",
+    "precache-manifest.4f89e622237014365c624f7f8049bdd4.js": "/esphiritu.github.io/precache-manifest.4f89e622237014365c624f7f8049bdd4.js",
+    "service-worker.js": "/esphiritu.github.io/service-worker.js",
+    "static/css/main.c687a420.chunk.css.map": "/esphiritu.github.io/static/css/main.c687a420.chunk.css.map",
+    "static/js/2.9e0d5bbc.chunk.js.LICENSE.txt": "/esphiritu.github.io/static/js/2.9e0d5bbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfd6ca9.js",
+    "static/js/2.9e0d5bbc.chunk.js",
+    "static/css/main.c687a420.chunk.css",
+    "static/js/main.ad0954b8.chunk.js"
+  ]
+}
